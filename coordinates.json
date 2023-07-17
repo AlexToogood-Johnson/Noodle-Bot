@@ -1,36 +1,136 @@
 {
     "overworld": {
-        "alphatise": [
-            1,
-            1,
-            1
+        "alex and m200h's base": [
+            1875,
+            128,
+            158
         ],
-        "theatre": [
-            298,
-            87,
-            7989
+        "bee farm": [
+            1809,
+            101,
+            191
         ],
-        "village": [
-            60,
-            60,
-            60
+        "cactus farm": [
+            1902,
+            133,
+            172
+        ],
+        "cocoa bean farm": [
+            1919,
+            141,
+            200
+        ],
+        "farm output panel": [
+            1901,
+            133,
+            186
+        ],
+        "head hall": [
+            1953,
+            143,
+            196
+        ],
+        "lava farm": [
+            1916,
+            136,
+            144
+        ],
+        "manual nether tree farm": [
+            2012,
+            137,
+            240
+        ],
+        "nether wart farm": [
+            1936,
+            144,
+            203
+        ],
+        "noodle & kode's base": [
+            1923,
+            136,
+            137
+        ],
+        "shopping district": [
+            1858,
+            133,
+            262
+        ],
+        "slime farm": [
+            1820,
+            101,
+            230
+        ],
+        "trading hall": [
+            1920,
+            143,
+            179
+        ],
+        "trading hall no. 2": [
+            2048,
+            137,
+            245
+        ],
+        "tree farm": [
+            1849,
+            133,
+            263
+        ],
+        "wool farm": [
+            1848,
+            105,
+            223
+        ],
+        "world spawn": [
+            1894,
+            151,
+            298
         ]
     },
     "nether": {
-        "alpha": [
-            20,
-            30,
-            40
+        "community storage": [
+            236,
+            73,
+            41
         ],
-        "blaze spawner": [
-            -50,
-            40,
-            -100
+        "end portal": [
+            168,
+            72,
+            -91
         ],
-        "lava lake": [
-            0,
-            60,
-            -30
+        "mob farm": [
+            251,
+            72,
+            85
+        ],
+        "nether hub": [
+            234,
+            73,
+            28
+        ],
+        "patigor's base": [
+            186,
+            72,
+            34
+        ],
+        "perimeter": [
+            253,
+            72,
+            54
+        ],
+        "pillager outpost": [
+            342,
+            70,
+            197
+        ],
+        "raid village": [
+            216,
+            72,
+            58
+        ],
+        "respawn anchor": [
+            226,
+            72,
+            20
         ]
     }
 }
