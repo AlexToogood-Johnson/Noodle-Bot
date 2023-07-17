@@ -9,9 +9,9 @@ from collections import OrderedDict
 from fuzzywuzzy import fuzz
 
 # Replace these with your actual tokens
-TOKEN = 'MTEzMDA5OTQzMTA4MjA0MTQzNQ.GMgJTb.RUVY6cttU2N1fV833yfZuY8PB-GM1Zsgds_D8o'
-TWITCH_CLIENT_ID = '69ca8wk9kqms8vgfol8d0igmdzetb7'
-TWITCH_OAUTH_TOKEN = 'b744piy8r706iwh2uxcn7r3bflg693'
+TOKEN = 'DISCORD TOKEN'
+TWITCH_CLIENT_ID = 'TWITCH CLIENT ID'
+TWITCH_OAUTH_TOKEN = 'TWITCH OAUTH TOKEN'
 
 TWITCH_BASE_URL = 'https://api.twitch.tv/helix'
 TWITCH_USERS_URL = f'{TWITCH_BASE_URL}/users'
