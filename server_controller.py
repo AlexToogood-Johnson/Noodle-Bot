@@ -1,3 +1,12 @@
+#
+#
+#    THIS DOES NOT WORK
+#    THIS WAS MADE UNDER THE ASSUMPTION
+#    THAT THE SERVER AND THE DISCORD BOT
+#    WERE RUNNING ON THE SAME VM
+#
+#
+
 import discord
 from discord.ext import commands
 import asyncio
